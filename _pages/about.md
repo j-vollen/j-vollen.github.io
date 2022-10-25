@@ -1,17 +1,27 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-  Hello and welcome, I'm Jeremy, a second-year PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/) . I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. Currently, I am primarily focused on voting problems.
+  I'm Jeremy, a second-year PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. Currently, I am primarily focused on voting problems.
   
+
+## **News**
+I've been invited to present our paper "[Coordinating Monetary Contributions in Participatory Budgeting](https://arxiv.org/pdf/2206.05966.pdf)" at [AI-OPT 2022: Workshop on AI-based Optimisation](https://optima.org.au/2022-workshop-on-ai-based-optimisation-ai-opt-2022/) in Melbourne on Thursday, November 17.
+
 ##  **Publications**
-- [Coordinating Monetary Contributions in Participatory Budgeting](https://arxiv.org/pdf/2206.05966.pdf) 
-  Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen. (2022)
+- [Coordinating Monetary Contributions in Participatory Budgeting](https://arxiv.org/pdf/2206.05966.pdf) <br/>
+  Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen. (2022) <br/>
  
 ##  **Misc. Research**
+- [Family Life in Lockdown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8371690/) <br/>
+  Pietro Biroli, Steven Bosworth, Marina Della Giusta, Amalia Di Girolamo, Sylvia Jaworska, Jeremy Vollen. (2021) <br/>
+  ([data and code](https://osf.io/upq5g/), [slides](https://www.dropbox.com/s/7efep219nnxoh2u/LifeLockdown_IZA-Jacobs-pres.pdf?dl=0)) <br/>
+
+- [The economic potential for energy storage in Nevada] (https://www.brattle.com/wp-content/uploads/2021/05/14618_economic_potential_for_storage_in_nevada_-_final.pdf) <br/>
+  Judy Chang, Ryan Hledik, John Imon Pedtke, Roger Lueken, Johannes Pfeifenberger, Jeremy Vollen. (2018) <br/>  
