@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-  I'm Jeremy, a second-year PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. Currently, I am primarily focused on voting problems.
-  
+  I'm Jeremy, a second-year PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems.
 
 ## **News**
 I've been invited to present our paper "[Coordinating Monetary Contributions in Participatory Budgeting](https://arxiv.org/pdf/2206.05966.pdf)" at [AI-OPT 2022: Workshop on AI-based Optimisation](https://optima.org.au/2022-workshop-on-ai-based-optimisation-ai-opt-2022/) in Melbourne on Thursday, November 17.
