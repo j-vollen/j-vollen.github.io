@@ -23,5 +23,5 @@ I've been invited to present our paper "[Coordinating Monetary Contributions in 
   Pietro Biroli, Steven Bosworth, Marina Della Giusta, Amalia Di Girolamo, Sylvia Jaworska, Jeremy Vollen. (2021) <br/>
   ([data and code](https://osf.io/upq5g/), [slides](https://www.dropbox.com/s/7efep219nnxoh2u/LifeLockdown_IZA-Jacobs-pres.pdf?dl=0)) <br/>
 
-- [The economic potential for energy storage in Nevada] (https://www.brattle.com/wp-content/uploads/2021/05/14618_economic_potential_for_storage_in_nevada_-_final.pdf) <br/>
+- [The economic potential for energy storage in Nevada](https://www.brattle.com/wp-content/uploads/2021/05/14618_economic_potential_for_storage_in_nevada_-_final.pdf) <br/>
   Judy Chang, Ryan Hledik, John Imon Pedtke, Roger Lueken, Johannes Pfeifenberger, Jeremy Vollen. (2018) <br/>  
