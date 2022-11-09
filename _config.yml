@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeremy Vollen"
   avatar           : "inquisitive_profile.png"
-  bio              : >
+  bio              : |
                     PhD Student
                     UNSW Computer Science
   location         : "Sydney, Australia"
