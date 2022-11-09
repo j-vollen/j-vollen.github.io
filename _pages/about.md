@@ -13,7 +13,7 @@ redirect_from:
   <!-- Here is my [CV](https://j-vollen.github.io/files/cv.pdf). -->
 
 ## **News**
-I've been invited to present our paper "[Coordinating Monetary Contributions in Participatory Budgeting](https://arxiv.org/pdf/2206.05966.pdf)" at [AI-OPT 2022: Workshop on AI-based Optimisation](https://optima.org.au/2022-workshop-on-ai-based-optimisation-ai-opt-2022/) in Melbourne on Thursday, November 17.
+I've been invited to present our paper "[Coordinating Monetary Contributions in Participatory Budgeting](https://j-vollen.github.io/files/pbc.pdf)" at [AI-OPT 2022: Workshop on AI-based Optimisation](https://optima.org.au/2022-workshop-on-ai-based-optimisation-ai-opt-2022/) in Melbourne on Thursday, November 17.
 
 ##  **Publications**
 - [Coordinating Monetary Contributions in Participatory Budgeting](https://j-vollen.github.io/files/pbc.pdf) <br/>
