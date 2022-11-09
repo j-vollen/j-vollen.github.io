@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jeremy Vollen"
   avatar           : "profile.png"
-  bio              : "PhD Student @ UNSW Computer Science"
+  bio              : "PhD Student @\\UNSW Computer Science"
   location         : "Sydney, Australia"
   employer         :
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : jeremy-vollen
+  # linkedin         : jeremy-vollen
   orcid            :
   pinterest        :
   soundcloud       :
