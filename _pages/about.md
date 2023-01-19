@@ -10,18 +10,15 @@ redirect_from:
 
   I'm Jeremy, a second-year PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
 
-  <!-- Here is my [CV](https://j-vollen.github.io/files/cv.pdf). -->
+  Here is my [CV](https://j-vollen.github.io/files/JeremyVollen_CV.pdf).
 
-## **News**
-I've been invited to present our paper "[Coordinating Monetary Contributions in Participatory Budgeting](https://j-vollen.github.io/files/pbc.pdf)" at [AI-OPT 2022: Workshop on AI-based Optimisation](https://optima.org.au/2022-workshop-on-ai-based-optimisation-ai-opt-2022/) in Melbourne on Thursday, November 17.
-
-##  **Publications**
+##  **Working Papers**
 - [Coordinating Monetary Contributions in Participatory Budgeting](https://j-vollen.github.io/files/pbc.pdf) <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen. (2022) <br/>
- 
+
 ##  **Misc. Research**
 - [Family Life in Lockdown](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8371690/) <br/>
-  Pietro Biroli, Steven Bosworth, Marina Della Giusta, Amalia Di Girolamo, Sylvia Jaworska, Jeremy Vollen. (2021) <br/>
+  Pietro Biroli, Steven Bosworth, Marina Della Giusta, Amalia Di Girolamo, Sylvia Jaworska, Jeremy Vollen. (*Frontiers in Psychology 2021*) <br/>
   ([data and code](https://osf.io/upq5g/), [slides](https://www.dropbox.com/s/7efep219nnxoh2u/LifeLockdown_IZA-Jacobs-pres.pdf?dl=0)) <br/>
 
 - [The economic potential for energy storage in Nevada](https://www.brattle.com/wp-content/uploads/2021/05/14618_economic_potential_for_storage_in_nevada_-_final.pdf) <br/>
