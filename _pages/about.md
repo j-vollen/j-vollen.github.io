@@ -13,6 +13,9 @@ redirect_from:
   Here is my [CV](https://j-vollen.github.io/files/JeremyVollen_CV.pdf).
 
 ##  **Working Papers**
+- [Best-of-Both-Worlds Fairness in Committee Voting](https://j-vollen.github.io/files/bbw_mwv.pdf) <br/>
+  Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh. (2022) <br/>
+
 - [Coordinating Monetary Contributions in Participatory Budgeting](https://j-vollen.github.io/files/pbc.pdf) <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen. (2022) <br/>
 
