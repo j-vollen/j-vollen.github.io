@@ -11,6 +11,10 @@ redirect_from:
   I'm Jeremy, a second-year PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
 
   Here is my [CV](https://j-vollen.github.io/files/JeremyVollen_CV.pdf).
+  
+
+## **What's new?** 
+ *June 20, 2023* I've been accepted to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in Berkeley, California. 
 
 ##  **Working Papers**
 - [Best-of-Both-Worlds Fairness in Committee Voting](https://j-vollen.github.io/files/bbw_mwv.pdf) <br/>
