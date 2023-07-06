@@ -14,6 +14,8 @@ redirect_from:
   
 
 ## **What's new?** 
+ *July 5, 2023* I am visiting [Ashish Goel](https://web.stanford.edu/~ashishg) at Stanford University's Department of Management Science and Engineering. <br/>
+ 
  *March 10, 2023* I've been invited to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in June in Berkeley, California. 
 
 ##  **Working Papers**
