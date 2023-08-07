@@ -14,7 +14,7 @@ redirect_from:
   
 
 ## **What's new?** 
-  *August 18, 2023* I am attending IJCAI 2023 in Macao. I will be giving a talk at the M-PREF workshop on "Best-of-Both-Worlds Fairness in Committee Voting" and participating in the doctoral consortium.
+  *August 18, 2023* I am attending IJCAI 2023 in Macao. I will be giving a talk at the M-PREF workshop on "Best-of-Both-Worlds Fairness in Committee Voting" and participating in the doctoral consortium. <br/>
 
  *July 5, 2023* I am visiting [Ashish Goel](https://web.stanford.edu/~ashishg) at Stanford University's Department of Management Science and Engineering. <br/>
  
