@@ -14,7 +14,7 @@ redirect_from:
   
 
 ## **What's new?** 
-  *August 18, 2023* I am attending IJCAI 2023 in Macao. I will be giving a talk at the M-PREF workshop on "Best-of-Both-Worlds Fairness in Committee Voting" and participating in the doctoral consortium. <br/>
+  *August 18, 2023* At IJCAI 2023, I will be giving a talk on "Best-of-Both-Worlds Fairness in Committee Voting" at the M-PREF workshop and participating in the doctoral consortium. <br/>
 
  *July 5, 2023* I am visiting [Ashish Goel](https://web.stanford.edu/~ashishg) at Stanford University's Department of Management Science and Engineering. <br/>
  
@@ -25,9 +25,9 @@ redirect_from:
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
   \[[Arxiv](https://arxiv.org/abs/2303.03642)\] \[Under submission\] <br/>
 
- **Coordinating Monetary Contributions in Participatory Budgeting** (Forthcoming ) <br/>
+ **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[Arxiv](https://arxiv.org/abs/2206.05966)\] \[Forthcoming <font color='gray'> **SAGT '23** </font> \] <br/>
+  \[[Arxiv](https://arxiv.org/abs/2206.05966)\] \[Forthcoming **<font color='gray'> SAGT '23 </font>** \] <br/>
 
 
 ##  **Misc. Research**
