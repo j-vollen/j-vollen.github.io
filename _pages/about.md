@@ -10,29 +10,34 @@ redirect_from:
 
   I'm Jeremy, a PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/JeremyVollen_CV.pdf) (updated April 2023).
+  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated April 2023).
   
 
 ## **What's new?** 
-  *August 18, 2023* At IJCAI 2023, I will be giving a talk on "Best-of-Both-Worlds Fairness in Committee Voting" at the M-PREF workshop and participating in the doctoral consortium. <br/>
+  *December 2023* Our paper "Fair Lotteries for Participatory Budgeting" has been accepted at AAAI 2024, to be held in Vancouver, Canada in February.
 
- *July 5, 2023* I am visiting [Ashish Goel](https://web.stanford.edu/~ashishg) at Stanford University's Department of Management Science and Engineering. <br/>
+  *August 2023* At IJCAI 2023, I will be giving a talk on "Best-of-Both-Worlds Fairness in Committee Voting" at the M-PREF workshop and participating in the doctoral consortium. <br/>
+
+ *July 2023* I am visiting [Ashish Goel](https://web.stanford.edu/~ashishg) at Stanford University's Department of Management Science and Engineering. <br/>
  
- *March 10, 2023* I've been invited to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in June in Berkeley, California. 
+ *March 2023* I've been invited to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in June in Berkeley, California. 
 
 ##  **Papers**
+ **Fair Lotteries for Participatory Budgeting** <br/>
+  Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
+  \[Forthcoming **<font color='gray'> AAAI '24 </font>** \] <br/>\]
+  
  **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
   \[[Arxiv](https://arxiv.org/abs/2304.13917)\] \[Under submission\] <br/>
 
  **Best-of-Both-Worlds Fairness in Committee Voting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
-  \[[Arxiv](https://arxiv.org/abs/2303.03642)\] \[Under submission\] <br/>
+  \[[Arxiv](https://arxiv.org/abs/2303.03642)\] \[**<font color='gray'> WINE '23 </font>** \] <br/>
 
  **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[Arxiv](https://arxiv.org/abs/2206.05966)\] \[Forthcoming **<font color='gray'> SAGT '23 </font>** \] <br/>
-
+  \[[Arxiv](https://arxiv.org/abs/2206.05966)\] \[**<font color='gray'> SAGT '23 </font>** \] <br/>
 
 ##  **Misc. Research**
  Family Life in Lockdown <br/>
