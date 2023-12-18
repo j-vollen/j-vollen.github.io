@@ -25,8 +25,8 @@ redirect_from:
 ##  **Papers**
  **Fair Lotteries for Participatory Budgeting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
-  \[Forthcoming **<font color='gray'> AAAI '24 </font>** \] <br/>\]
-  
+  \[Forthcoming **<font color='gray'> AAAI '24 </font>** \] <br/>
+
  **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
   \[[Arxiv](https://arxiv.org/abs/2304.13917)\] \[Under submission\] <br/>
