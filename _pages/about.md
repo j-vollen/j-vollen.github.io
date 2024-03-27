@@ -25,23 +25,23 @@ redirect_from:
 ##  **Papers**
  **Maximum Flow is Fair: A Network Flow Approach to Committee Voting** <br/>
   Mashbat Suzuki and Jeremy Vollen <br/>
-  \[[Manuscript](https://j-vollen.github.io/files/max-flow-is-fair.pdf) \] \[ Under submission \]
+  \[[ Manuscript ](https://j-vollen.github.io/files/max-flow-is-fair.pdf) \] \[ Under submission \]
 
  **Fair Lotteries for Participatory Budgeting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
-  \[[Manuscript](https://j-vollen.github.io/files/bobw-pb-full.pdf) \] \[**<font color='gray'> AAAI '24 </font>** \] <br/>
+  \[[ Manuscript ](https://j-vollen.github.io/files/bobw-pb-full.pdf) \] \[**<font color='gray'> AAAI '24 </font>** \] <br/>
 
  **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
-  \[[Arxiv](https://arxiv.org/abs/2304.13917)\] \[ Under submission \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[ Under submission \] <br/>
 
  **Best-of-Both-Worlds Fairness in Committee Voting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
-  \[[Arxiv](https://arxiv.org/abs/2303.03642)\] \[**<font color='gray'> WINE '23 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2303.03642)\] \[**<font color='gray'> WINE '23 </font>** \] <br/>
 
  **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[Arxiv](https://arxiv.org/abs/2206.05966)\] \[**<font color='gray'> SAGT '23 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2206.05966)\] \[**<font color='gray'> SAGT '23 </font>** \] <br/>
 
 ##  **Misc. Research**
  Family Life in Lockdown <br/>
