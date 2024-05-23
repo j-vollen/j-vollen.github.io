@@ -14,7 +14,9 @@ redirect_from:
   
 
 ## **What's new?** 
-  *December 2023* Our paper "Fair Lotteries for Participatory Budgeting" has been accepted at AAAI 2024, to be held in Vancouver, Canada in February.
+  *May 2024* Our paper "Maximum Flow is Fair: A Network Flow Approach to Committee Voting" has been accepted at EC 2024.
+
+  *December 2023* Our paper "Fair Lotteries for Participatory Budgeting" has been accepted at AAAI 2024.
 
   *August 2023* At IJCAI 2023, I will be giving a talk on "Best-of-Both-Worlds Fairness in Committee Voting" at the M-PREF workshop and participating in the doctoral consortium. <br/>
 
@@ -23,17 +25,18 @@ redirect_from:
  *March 2023* I've been invited to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in June in Berkeley, California. 
 
 ##  **Papers**
+
  **Maximum Flow is Fair: A Network Flow Approach to Committee Voting** <br/>
   Mashbat Suzuki and Jeremy Vollen <br/>
-  \[[ Manuscript ](https://j-vollen.github.io/files/max-flow-is-fair.pdf) \] \[ Under submission \]
-
- **Fair Lotteries for Participatory Budgeting** <br/>
-  Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
-  \[[ Manuscript ](https://j-vollen.github.io/files/bobw-pb-full.pdf) \] \[**<font color='gray'> AAAI '24 </font>** \] <br/>
+  \[[ Manuscript ](https://j-vollen.github.io/files/max-flow-is-fair.pdf) \] \[ Forthcoming **<font color='gray'> EC '24 </font>** \] <br/>
 
  **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[ Under submission \] <br/>
+
+ **Fair Lotteries for Participatory Budgeting** <br/>
+  Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2404.05198) \] \[**<font color='gray'> AAAI '24 </font>** \] <br/>
 
  **Best-of-Both-Worlds Fairness in Committee Voting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
