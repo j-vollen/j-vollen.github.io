@@ -10,7 +10,7 @@ redirect_from:
 
   I'm Jeremy, a PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated April 2023).
+  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated July 2024).
   
 
 ## **What's new?** 
@@ -24,15 +24,21 @@ redirect_from:
  
  *March 2023* I've been invited to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in June in Berkeley, California. 
 
-##  **Papers**
+##  **Working Papers**
+
+ **Neighborhood Stability in Assignments on Graphs** <br/>
+  Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
+  \[[ Manuscript ](https://j-vollen.github.io/files/swaps.pdf) \] \[ Under submission \] <br/>
+
+  **Proportionally Representative Clustering** <br/>
+  Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[ Under submission \] <br/>
+
+##  **Publications**
 
  **Maximum Flow is Fair: A Network Flow Approach to Committee Voting** <br/>
   Mashbat Suzuki and Jeremy Vollen <br/>
-  \[[ Manuscript ](https://j-vollen.github.io/files/max-flow-is-fair.pdf) \] \[ Forthcoming **<font color='gray'> EC '24 </font>** \] <br/>
-
- **Proportionally Representative Clustering** <br/>
-  Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[ Under submission \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2406.14907) \] \[ Forthcoming **<font color='gray'> EC '24 </font>** \] <br/>
 
  **Fair Lotteries for Participatory Budgeting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
