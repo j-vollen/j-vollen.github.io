@@ -28,7 +28,7 @@ redirect_from:
 
  **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Manuscript ](https://j-vollen.github.io/files/swaps.pdf) \] \[ Under submission \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[ Under submission \] <br/>
 
   **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
