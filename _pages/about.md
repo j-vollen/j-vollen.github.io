@@ -14,6 +14,8 @@ redirect_from:
   
 
 ## **What's new?** 
+  *October 2024* Our paper "Proportionally Representative Clustering" has been accepted at WINE 2024.
+
   *May 2024* Our paper "Maximum Flow is Fair: A Network Flow Approach to Committee Voting" has been accepted at EC 2024.
 
   *December 2023* Our paper "Fair Lotteries for Participatory Budgeting" has been accepted at AAAI 2024.
@@ -30,15 +32,15 @@ redirect_from:
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[ Under submission \] <br/>
 
+##  **Publications**
+
   **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[ Under submission \] <br/>
-
-##  **Publications**
+  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[Forthcoming **<font color='gray'> WINE '24 </font>** \] <br/>
 
  **Maximum Flow is Fair: A Network Flow Approach to Committee Voting** <br/>
   Mashbat Suzuki and Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2406.14907) \] \[ Forthcoming **<font color='gray'> EC '24 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2406.14907) \] \[**<font color='gray'> EC '24 </font>** \] <br/>
 
  **Fair Lotteries for Participatory Budgeting** <br/>
   Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
