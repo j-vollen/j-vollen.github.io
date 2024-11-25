@@ -10,7 +10,7 @@ redirect_from:
 
   I'm Jeremy, a PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated July 2024).
+  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated November 2024).
   
 
 ## **What's new?** 
