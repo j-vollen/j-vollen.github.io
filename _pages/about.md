@@ -28,6 +28,10 @@ redirect_from:
 
 ##  **Working Papers**
 
+ **Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics** <br/>
+  Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \] \[ Under submission \] <br/>
+
  **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[ Under submission \] <br/>
@@ -36,7 +40,7 @@ redirect_from:
 
   **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[Forthcoming **<font color='gray'> WINE '24 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[**<font color='gray'> WINE '24 </font>** \] <br/>
 
  **Maximum Flow is Fair: A Network Flow Approach to Committee Voting** <br/>
   Mashbat Suzuki and Jeremy Vollen <br/>
