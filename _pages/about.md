@@ -28,13 +28,17 @@ redirect_from:
 
 ##  **Working Papers**
 
+ **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
+  Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] <br/>
+
  **Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics** <br/>
   Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \] \[ Under submission \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \] <br/>
 
  **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[ Under submission \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] <br/>
 
 ##  **Publications**
 
