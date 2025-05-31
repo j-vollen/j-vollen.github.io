@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-  I'm Jeremy, a PhD student in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
+  I'm Jeremy, a PhD candidate in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
 
   Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated November 2024).
   
 
 ## **What's new?** 
+  *May 2025* Our paper "Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics" has been accepted at EC 2025.
+
   *October 2024* Our paper "Proportionally Representative Clustering" has been accepted at WINE 2024.
 
   *May 2024* Our paper "Maximum Flow is Fair: A Network Flow Approach to Committee Voting" has been accepted at EC 2024.
@@ -32,15 +34,14 @@ redirect_from:
   Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
   \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] <br/>
 
- **Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics** <br/>
-  Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \] <br/>
-
  **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] <br/>
 
 ##  **Publications**
+   **Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics** <br/>
+  Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \]\[**<font color='gray'> Forthcoming EC '25 </font>** \] <br/>
 
   **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
