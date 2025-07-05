@@ -14,7 +14,7 @@ redirect_from:
   
 
 ## **What's new?** 
-  *May 2025* Our paper "Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics" has been accepted at EC 2025.
+  *May 2025* Our paper "Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes" has been accepted at EC 2025.
 
   *October 2024* Our paper "Proportionally Representative Clustering" has been accepted at WINE 2024.
 
@@ -39,7 +39,7 @@ redirect_from:
   \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] <br/>
 
 ##  **Publications**
-   **Sequential Payment Rules: Approximately Fair Budget Divisions via Simple Spending Dynamics** <br/>
+   **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
   Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \]\[**<font color='gray'> Forthcoming EC '25 </font>** \] <br/>
 
