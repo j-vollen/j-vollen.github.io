@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jeremy Vollen"
 title_separator          : "-"
 name                     : &name "Jeremy Vollen"
-description              : &description "PhD Student @ UNSW"
+description              : &description "Postdoc @ Northwestern CS"
 url                      : https://j-vollen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "j-vollen/j-vollen.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jeremy Vollen"
   avatar           : "oceanview_profile.png"
-  bio              : "PhD Student @ UNSW"
-  location         : "Sydney, Australia"
+  bio              : "Postdoc @ Northwestern CSW"
+  location         : "Chicago, IL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0d26JAsAAAAJ"
-  email            : "j.vollen@unsw.edu.au"
+  email            : "jdvollen@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
