@@ -8,40 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-  I'm Jeremy, a PhD candidate in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, supervised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I'm broadly interested in topics at the intersection of microeconomic theory and algorithmics. My current research is primarily focused on designing algorithms with desirable individual and group representation guarantees for general voting problems. <br/>
+  I'm Jeremy, a Postdoctoral Fellow hosted by [Edith Elkind](https://sagemath.openbsd.amsterdam/edith/), at the Northwestern University Department of Computer Science. Prior to joining Northwestern, I completed a PhD in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, where I was advised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I am broadly interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
 
   Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated November 2024).
   
 
 ## **What's new?** 
+  *October 2025* I am starting a position as a Postdoctoral Fellow at Northwestern University, where I will be hosted by Edith Elkind.
+
+  *September 2025* Our paper "Neighborhood Stability in Assignments on Graphs" has been accepted at WINE 2025.
+
   *May 2025* Our paper "Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes" has been accepted at EC 2025.
 
   *October 2024* Our paper "Proportionally Representative Clustering" has been accepted at WINE 2024.
 
   *May 2024* Our paper "Maximum Flow is Fair: A Network Flow Approach to Committee Voting" has been accepted at EC 2024.
 
-  *December 2023* Our paper "Fair Lotteries for Participatory Budgeting" has been accepted at AAAI 2024.
-
-  *August 2023* At IJCAI 2023, I will be giving a talk on "Best-of-Both-Worlds Fairness in Committee Voting" at the M-PREF workshop and participating in the doctoral consortium. <br/>
-
- *July 2023* I am visiting [Ashish Goel](https://web.stanford.edu/~ashishg) at Stanford University's Department of Management Science and Engineering. <br/>
- 
- *March 2023* I've been invited to attend the [Mathematics and Computer Science of Market and Mechanism Design summer graduate school at MSRI](https://www.msri.org/summer_schools/1016) in June in Berkeley, California. 
-
 ##  **Working Papers**
 
- **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
+  **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
   Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
   \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] <br/>
 
- **Neighborhood Stability in Assignments on Graphs** <br/>
-  Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] <br/>
 
-##  **Publications**
-   **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
+##  **Journal Publications**
+  **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
   Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \]\[**<font color='gray'> Forthcoming EC '25 </font>** \] <br/>
+  In *<font color='gray'> Games and Economic Behavior </font>*, 154:208-225, 2025. (Supercedes the EC version below.) \[ [ Paper ](https://www.sciencedirect.com/science/article/pii/S0899825625001307?via%3Dihub) \] <br/>
+
+  **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
+  Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
+  In <font color='gray'> *Autonomous Agents and Multi-Agent Systems* </font>, 39(34), 2025. (Supercedes the SAGT version below.)\[ [ Paper ](https://link.springer.com/article/10.1007/s10458-025-09715-7) \] <br/>
+
+##  **Conference Publications**
+  **Neighborhood Stability in Assignments on Graphs** <br/>
+  Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[**<font color='gray'> Forthcoming WINE '25 </font>** \] <br/>
+
+  **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
+  Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \]\[**<font color='gray'> EC '25 </font>** \] <br/>
 
   **Proportionally Representative Clustering** <br/>
   Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
@@ -62,6 +68,7 @@ redirect_from:
  **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2206.05966)\] \[**<font color='gray'> SAGT '23 </font>** \] <br/>
+
 
 ##  **Misc. Research**
  Family Life in Lockdown <br/>
