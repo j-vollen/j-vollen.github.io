@@ -34,11 +34,13 @@ redirect_from:
 ##  **Journal Publications**
   **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
   Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
-  In *<font color='gray'> Games and Economic Behavior </font>*, 154:208-225, 2025. (Supercedes the EC version below.) \[ [ Paper ](https://www.sciencedirect.com/science/article/pii/S0899825625001307?via%3Dihub) \] <br/>
+  In *<font color='gray'> Games and Economic Behavior </font>*, 154:208-225, 2025. <br/>
+  \[ [ Paper ](https://www.sciencedirect.com/science/article/pii/S0899825625001307?via%3Dihub) \]  (Supercedes the EC version below.) <br/>
 
   **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
-  In <font color='gray'> *Autonomous Agents and Multi-Agent Systems* </font>, 39(34), 2025. (Supercedes the SAGT version below.)\[ [ Paper ](https://link.springer.com/article/10.1007/s10458-025-09715-7) \] <br/>
+  In *<font color='gray'> Autonomous Agents and Multi-Agent Systems </font>*, 39(34), 2025. <br/>
+  \[ [ Paper ](https://link.springer.com/article/10.1007/s10458-025-09715-7) \] (Supercedes the SAGT version below.) <br/>
 
 ##  **Conference Publications**
   **Neighborhood Stability in Assignments on Graphs** <br/>
