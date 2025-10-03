@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-  I'm Jeremy, a Postdoctoral Fellow hosted by [Edith Elkind](https://sagemath.openbsd.amsterdam/edith/), at the Northwestern University Department of Computer Science. Prior to joining Northwestern, I completed a PhD in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, where I was advised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I am broadly interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
+  I'm Jeremy, a Postdoctoral Scholar hosted by [Edith Elkind](https://sagemath.openbsd.amsterdam/edith/), at the Northwestern University Department of Computer Science. Prior to joining Northwestern, I completed a PhD in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, where I was advised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I am broadly interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
 
   Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated November 2024).
   
 
 ## **What's new?** 
-  *October 2025* I am starting a position as a Postdoctoral Fellow at Northwestern University, where I will be hosted by Edith Elkind.
+  *October 2025* I am starting a position as a Postdoctoral Scholar at Northwestern University, where I will be hosted by Edith Elkind.
 
   *September 2025* Our paper "Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes" has been published in *Games and Economic Behavior*.
 
