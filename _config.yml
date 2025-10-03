@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jeremy Vollen"
   avatar           : "oceanview_profile.png"
-  bio              : "Postdoc @ Northwestern CSW"
+  bio              : "Postdoc @ Northwestern CS"
   location         : "Chicago, IL"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=0d26JAsAAAAJ"
-  email            : "jdvollen@gmail.com"
+  email            : "vollen@northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
