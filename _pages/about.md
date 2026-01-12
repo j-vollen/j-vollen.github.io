@@ -10,7 +10,7 @@ redirect_from:
 
   I'm Jeremy, a Postdoctoral Scholar hosted by [Edith Elkind](https://sagemath.openbsd.amsterdam/edith/), at the Northwestern University Department of Computer Science. Prior to joining Northwestern, I completed a PhD in the [Algorithmic Decision Theory](https://www.cse.unsw.edu.au/~adt/) group at University of New South Wales, where I was advised by [Haris Aziz](https://sites.google.com/site/harisaziz/). I am broadly interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated November 2024).
+  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated December 2025).
   
 
 ## **What's new?** 
@@ -44,7 +44,7 @@ redirect_from:
 ##  **Conference Publications**
   **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[**<font color='gray'> Forthcoming WINE '25 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[**<font color='gray'> WINE '25 </font>** \] <br/>
 
   **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
   Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
