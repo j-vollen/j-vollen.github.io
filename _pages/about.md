@@ -24,6 +24,10 @@ redirect_from:
 
 
 ##  **Working Papers**
+  **Fair Transit Stop Placement: A Clustering Perspective and Beyond** <br/>
+  Haris Aziz, Ling Gai, Yuhang Guo, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2602.06776) \] <br/>
+
 
   **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
   Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
