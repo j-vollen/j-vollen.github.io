@@ -15,25 +15,20 @@ redirect_from:
   Another strain of my research applies these ideas to ubiquitous tasks in AI decision-making systems, such as centroid clustering.
   More broadly, I am interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated December 2025).
+  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated May 2026).
   
 
 ## **What's new?** 
+  *May 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" has been accepted at IJCAI 2026.
+
+  *May 2026* Our paper "Fair Transit Stop Placement: A Clustering Perspective and Beyond" has been accepted at ICML 2026.
+
   *October 2025* I am starting a position as a Postdoctoral Scholar at Northwestern University, where I will be hosted by Edith Elkind.
 
   *September 2025* Our paper "Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes" has been published in *Games and Economic Behavior*.
 
-  *September 2025* Our paper "Neighborhood Stability in Assignments on Graphs" has been accepted at WINE 2025.
-
-  *May 2025* Our paper "Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes" has been accepted at EC 2025.
-
 
 ##  **Working Papers**
-  **Fair Transit Stop Placement: A Clustering Perspective and Beyond** <br/>
-  Haris Aziz, Ling Gai, Yuhang Guo, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2602.06776) \] <br/>
-
-
   **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
   Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
   \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] <br/>
@@ -51,6 +46,14 @@ redirect_from:
   \[ [ Paper ](https://link.springer.com/article/10.1007/s10458-025-09715-7) \] (Supercedes the SAGT version below.) <br/>
 
 ##  **Conference Publications**
+  **Approximate Strategyproofness in Approval-based Budget Division** <br/>
+  Haris Aziz, Patrick Lederer, Jeremy Vollen <br/>
+  \[ Forthcoming **<font color='gray'> IJCAI '26 </font>** \] <br/>
+
+  **Fair Transit Stop Placement: A Clustering Perspective and Beyond** <br/>
+  Haris Aziz, Ling Gai, Yuhang Guo, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2602.06776) \] \[ Forthcoming **<font color='gray'> ICML '26 </font>** \] <br/>
+
   **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2407.05240) \] \[**<font color='gray'> WINE '25 </font>** \] <br/>
