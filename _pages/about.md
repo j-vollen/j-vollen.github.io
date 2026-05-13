@@ -48,7 +48,7 @@ redirect_from:
 ##  **Conference Publications**
   **Approximate Strategyproofness in Approval-based Budget Division** <br/>
   Haris Aziz, Patrick Lederer, Jeremy Vollen <br/>
-  \[ Forthcoming **<font color='gray'> IJCAI '26 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2605.11736) \] \[ Forthcoming **<font color='gray'> IJCAI '26 </font>** \] <br/>
 
   **Fair Transit Stop Placement: A Clustering Perspective and Beyond** <br/>
   Haris Aziz, Ling Gai, Yuhang Guo, Jeremy Vollen <br/>
