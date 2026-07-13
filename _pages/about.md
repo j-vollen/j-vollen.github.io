@@ -19,6 +19,8 @@ redirect_from:
   
 
 ## **What's new?** 
+  *August 2026* See you at IJCAI in Bremen, Germany! I'll be presenting "Approximate Strategyproofness in Approval-based Budget Division" in addition to giving talks at the workshops on Social Choice and Learning Algorithms (SCaLA) and Computational Fair Division (CFD). 
+
   *May 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" has been accepted at IJCAI 2026.
 
   *May 2026* Our paper "Fair Transit Stop Placement: A Clustering Perspective and Beyond" has been accepted at ICML 2026.
@@ -29,6 +31,10 @@ redirect_from:
 
 
 ##  **Working Papers**
+  **Check, Please: Verifiably Fair Clustering** <br/>
+  Yu He, Jeremy Vollen, Edith Elkind <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2605.12317) \] <br/>
+
   **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
   Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
   \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] <br/>
@@ -52,7 +58,7 @@ redirect_from:
 
   **Fair Transit Stop Placement: A Clustering Perspective and Beyond** <br/>
   Haris Aziz, Ling Gai, Yuhang Guo, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2602.06776) \] \[ Forthcoming **<font color='gray'> ICML '26 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2602.06776) \] \[**<font color='gray'> ICML '26 </font>** \] <br/>
 
   **Neighborhood Stability in Assignments on Graphs** <br/>
   Haris Aziz, Grzegorz Lisowski, Mashbat Suzuki, Jeremy Vollen <br/>
