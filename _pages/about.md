@@ -19,6 +19,8 @@ redirect_from:
   
 
 ## **What's new?** 
+  *August 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" was given one of three Distinguished Paper awards at IJCAI!
+
   *August 2026* See you at IJCAI in Bremen, Germany! I'll be presenting "Approximate Strategyproofness in Approval-based Budget Division" in addition to giving talks at the workshops on Social Choice and Learning Algorithms (SCaLA) and Computational Fair Division (CFD). 
 
   *May 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" has been accepted at IJCAI 2026.
