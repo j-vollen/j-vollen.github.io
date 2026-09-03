@@ -15,11 +15,11 @@ redirect_from:
   Another strain of my research applies these ideas to ubiquitous tasks in AI decision-making systems, such as centroid clustering.
   More broadly, I am interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated May 2026).
+  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated August 2026).
   
 
 ## **What's new?** 
-  *August 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" was given one of three Distinguished Paper awards at IJCAI!
+  *August 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" received one of three Distinguished Paper awards at IJCAI!
 
   *August 2026* See you at IJCAI in Bremen, Germany! I'll be presenting "Approximate Strategyproofness in Approval-based Budget Division" in addition to giving talks at the workshops on Social Choice and Learning Algorithms (SCaLA) and Computational Fair Division (CFD). 
 
@@ -56,7 +56,7 @@ redirect_from:
 ##  **Conference Publications**
   **Approximate Strategyproofness in Approval-based Budget Division** <br/>
   Haris Aziz, Patrick Lederer, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://arxiv.org/abs/2605.11736) \] \[ Forthcoming **<font color='gray'> IJCAI '26 </font>** \] <br/>
+  \[[ Arxiv ](https://arxiv.org/abs/2605.11736) \] \[ **<font color='gray'>  IJCAI '26 </font>**, Distinguished Paper Award \] <br/>
 
   **Fair Transit Stop Placement: A Clustering Perspective and Beyond** <br/>
   Haris Aziz, Ling Gai, Yuhang Guo, Jeremy Vollen <br/>
@@ -71,7 +71,7 @@ redirect_from:
   \[[ Arxiv ](https://arxiv.org/abs/2412.02435) \]\[**<font color='gray'> EC '25 </font>** \] <br/>
 
   **Proportionally Representative Clustering** <br/>
-  Haris Aziz, Sean Morata Chu, Barton Lee, Jeremy Vollen <br/>
+  Haris Aziz, Sean Morota Chu, Barton Lee, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2304.13917)\] \[**<font color='gray'> WINE '24 </font>** \] <br/>
 
  **Maximum Flow is Fair: A Network Flow Approach to Committee Voting** <br/>
