@@ -15,10 +15,12 @@ redirect_from:
   Another strain of my research applies these ideas to ubiquitous tasks in AI decision-making systems, such as centroid clustering.
   More broadly, I am interested in topics at the intersection of microeconomic theory and algorithmics. <br/>
 
-  Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated August 2026).
+  I am currently on the academic job market. Here is my [CV](https://j-vollen.github.io/files/CV_JeremyVollen.pdf) (updated September 2026).
   
 
 ## **What's new?** 
+  *September 2026* Our paper "The Panel Complexity of Sortition: Is 12 Angry Men Enough?" has been accepted at NeurIPS 2026.
+
   *August 2026* Our paper "Approximate Strategyproofness in Approval-based Budget Division" received one of three Distinguished Paper awards at IJCAI!
 
   *August 2026* See you at IJCAI in Bremen, Germany! I'll be presenting "Approximate Strategyproofness in Approval-based Budget Division" in addition to giving talks at the workshops on Social Choice and Learning Algorithms (SCaLA) and Computational Fair Division (CFD). 
@@ -27,19 +29,11 @@ redirect_from:
 
   *May 2026* Our paper "Fair Transit Stop Placement: A Clustering Perspective and Beyond" has been accepted at ICML 2026.
 
-  *October 2025* I am starting a position as a Postdoctoral Scholar at Northwestern University, where I will be hosted by Edith Elkind.
-
-  *September 2025* Our paper "Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes" has been published in *Games and Economic Behavior*.
-
 
 ##  **Working Papers**
   **Check, Please: Verifiably Fair Clustering** <br/>
   Yu He, Jeremy Vollen, Edith Elkind <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2605.12317) \] <br/>
-
-  **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
-  Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] <br/>
 
 
 ##  **Journal Publications**
@@ -54,6 +48,10 @@ redirect_from:
   \[ [ Paper ](https://link.springer.com/article/10.1007/s10458-025-09715-7) \] (Supercedes the SAGT version below.) <br/>
 
 ##  **Conference Publications**
+  **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
+  Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
+  \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] \[ <font color='gray'>Forthcoming **NeurIPS '26**</font>\] <br/>
+
   **Approximate Strategyproofness in Approval-based Budget Division** <br/>
   Haris Aziz, Patrick Lederer, Jeremy Vollen <br/>
   \[[ Arxiv ](https://arxiv.org/abs/2605.11736) \] \[ **<font color='gray'>  IJCAI '26 </font>**, Distinguished Paper Award \] <br/>
