@@ -50,7 +50,7 @@ redirect_from:
 ##  **Conference Publications**
   **The Panel Complexity of Sortition: Is 12 Angry Men Enough?** <br/>
   Johannes Brustle, Simone Fioravanti, Tomasz Ponitka, Jeremy Vollen <br/>
-  \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] \[ <font color='gray'>Forthcoming **NeurIPS '26**</font>\] <br/>
+  \[[ Arxiv ](https://www.arxiv.org/abs/2504.20508) \] \[ <font color='gray'>Forthcoming</font> **<font color='gray'>NeurIPS '26</font>** \] <br/>
 
   **Approximate Strategyproofness in Approval-based Budget Division** <br/>
   Haris Aziz, Patrick Lederer, Jeremy Vollen <br/>
