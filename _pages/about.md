@@ -37,10 +37,15 @@ redirect_from:
 
 
 ##  **Journal Publications**
+  **Fair Lotteries in Collective Choice** <br/>
+  Haris Aziz, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen, Toby Walsh <br/>
+  In *<font color='gray'> Artificial Intelligence </font>*, 2026. <br/>
+  \[ [ Paper ](https://www.sciencedirect.com/science/article/pii/S0004370226001876  ) \]  (Supercedes the WINE '23 and AAAI '24 papers below.) <br/>
+
   **Approximately Fair and Population Consistent Budget Division via Simple Payment Schemes** <br/>
   Haris Aziz, Patrick Lederer, Xinhang Lu, Mashbat Suzuki, Jeremy Vollen <br/>
   In *<font color='gray'> Games and Economic Behavior </font>*, 154:208-225, 2025. <br/>
-  \[ [ Paper ](https://www.sciencedirect.com/science/article/pii/S0899825625001307?via%3Dihub) \]  (Supercedes the EC version below.) <br/>
+  \[ [ Paper ](https://www.sciencedirect.com/science/article/pii/S0899825625001307) \]  (Supercedes the EC version below.) <br/>
 
   **Coordinating Monetary Contributions in Participatory Budgeting** <br/>
   Haris Aziz, Sujit Gujar, Manisha Padala, Mashbat Suzuki, Jeremy Vollen <br/>
